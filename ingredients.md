@@ -1,0 +1,1 @@
+potato, water, oil, salt, pepper, seasoning, ketchup
